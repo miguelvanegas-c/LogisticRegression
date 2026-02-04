@@ -67,7 +67,7 @@ $$J(w,b) = \frac{1}{m} \sum_{i=0}^{m-1} \left[ \text{loss}(f_{w,b}(x^{(i)}), y^{
 
 ## 📦 Dependencies
 
-- Python 3.x
+- Python 
 - NumPy
 - Pandas
 - Matplotlib
